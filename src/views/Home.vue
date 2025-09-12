@@ -22,11 +22,10 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde los comienzos de la humanidad, la relación entre los principios éticos, el desarrollo económico y la sostenibilidad ha sido fundamental para garantizar un progreso equilibrado y equitativo. En un contexto globalizado, donde los desafíos éticos y ambientales son cada vez más evidentes, la bioética emerge como una herramienta clave para orientar decisiones económicas responsables que respeten tanto el medio ambiente como los derechos humanos.
+              p.descripcion.mb-4 La unidad 2 aborda los fundamentos clave del diseño centrado en el usuario, una disciplina esencial en el desarrollo de productos digitales eficaces, intuitivos y accesibles. A través de esta unidad, se comprenderá el valor de empatizar con los usuarios, definir problemas reales, idear soluciones creativas, y prototipar y evaluar interfaces centradas en las personas. Se explorarán herramientas y metodologías como la investigación UX, los arquetipos de usuarios, los flujos de navegación y las pruebas de usabilidad, que permiten diseñar experiencias digitales alineadas con las necesidades y expectativas del público objetivo.
 
-              p.descripcion.mb-4 En esta unidad, profundizaremos en el rol de la bioética como pilar de la sostenibilidad en el desarrollo económico, explorando temas esenciales como la aplicación de principios éticos al uso de recursos naturales, la influencia de las políticas globales en la protección de los derechos humanos y la ética en la innovación tecnológica. 
-              
-              p #[b Prepárate para explorar los retos y oportunidades que la sostenibilidad y la bioética presentan en un mundo en constante evolución.]
+              p.descripcion.mb-4 #[strong ¡Prepárese para diseñar experiencias que marcan la diferencia!]
+
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
@@ -110,7 +109,7 @@ export default {
         width: 100%
         color: #fff !important
     .icon
-      background-color: $color-sistema-e
+      background-color: #496406
       padding: 0px 20px
       color: #fff
       display: flex
@@ -154,7 +153,7 @@ export default {
   .icon
     transition: all 0.25s ease-in-out
     // background-color: #083E61 !important
-    background-color: darken($color-acento-botones, 30% ) !important
+    background-color: #441C42 !important
   &:hover
     .icon
       transform: scale(1.06)
