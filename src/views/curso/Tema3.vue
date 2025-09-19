@@ -56,7 +56,7 @@
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p <strong>Anexo. </strong> Anexo_4.pdf
+                  p <strong>Anexo. </strong> Pruebas de usabilidad: definición, tipos y objetivos
 
       // Bloque 6/20: titulo-segundo
       #t_3_2.titulo-segundo(data-aos="flip-up")
@@ -89,7 +89,7 @@
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p <strong>Anexo. </strong> Anexo_5.pdf
+                  p <strong>Anexo. </strong> Evaluación cognitiva del diseño
 
             .col-lg-4
               figure(data-aos="zoom-in")
@@ -151,27 +151,27 @@
                   figure
                     img(src='@/assets/curso/tema3/infografia1.svg', alt='', style="max-width: 1106px;").mx-auto
 
-                .bg-color-white.box-shadow.p-3(x="5%" y="70%" numero="+")
+                .bg-color-white.box-shadow.p-3(x="2%" y="85%" numero="+")
                   h5 Paso 1
                   p Desarrollar criterios de reclutamiento que aseguren muestra representativa de demografía objetivo (edad, alfabetización tecnológica, hábitos bancarios).
 
-                .bg-color-white.box-shadow.p-3(x="20%" y="75%" numero="+")
+                .bg-color-white.box-shadow.p-3(x="18%" y="94%" numero="+")
                   h5 Paso 2
                   p Crear escenarios de tareas realistas como pago de facturas, transferencia de fondos y monitoreo de cuentas que reflejen objetivos reales de usuario.
 
-                .bg-color-white.box-shadow.p-3(x="40%" y="70%" numero="+")
+                .bg-color-white.box-shadow.p-3(x="35%" y="85%" numero="+")
                   h5 Paso 3
                   p Diseñar protocolo de sesión incluyendo cuestionario previo a prueba, instrucciones de tareas, guías de observación y preguntas de entrevista posterior a prueba.
 
-                .bg-color-white.box-shadow.p-3(x="55%" y="75%" numero="+")
+                .bg-color-white.box-shadow.p-3(x="51%" y="94%" numero="+")
                   h5 Paso 4
                   p Conducir sesiones con al menos 8 participantes, manteniendo enfoque de facilitación consistente mientras se adapta a necesidades individuales de participantes.
 
-                .bg-color-white.box-shadow.p-3(x="70%" y="70%" numero="+")
+                .bg-color-white.box-shadow.p-3(x="68%" y="85%" numero="+")
                   h5 Paso 5
                   p Analizar datos cuantitativos (tasas para completar tareas, tiempo en tarea, tasas de error) y observaciones cualitativas (puntos de dolor, áreas de confusión, retroalimentación positiva).
 
-                .bg-color-white.box-shadow.p-3(x="85%" y="75%" numero="+")
+                .bg-color-white.box-shadow.p-3(x="87%" y="94%" numero="+")
                   h5 Paso 6
                   p Sintetizar hallazgos en recomendaciones priorizadas con evidencia de soporte y sugerencias de implementación.
 

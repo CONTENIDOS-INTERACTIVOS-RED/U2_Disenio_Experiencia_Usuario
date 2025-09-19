@@ -45,11 +45,11 @@
               h2.mb-4(data-aos="flip-up") Iteración en diseños basados en pruebas de usabilidad
               p.mb-4(data-aos="fade-right") En el PDF Iteración en diseños basados en pruebas de usabilidad, se presentan enfoques metodológicos para estructurar ciclos iterativos efectivos, incorporando criterios de evaluación, análisis de métricas y toma de decisiones fundamentadas en datos reales. A través de casos prácticos, se ilustra cómo este enfoque garantiza soluciones más precisas, eficientes y alineadas con las expectativas y comportamientos de los usuarios.
 
-              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
+              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p <strong>Anexo. </strong> Anexo_5.pdf
+                  p <strong>Anexo. </strong> Iteración en diseños basados en pruebas de usabilidad
 
             .col-lg-4
               figure(data-aos="zoom-in")
@@ -189,11 +189,11 @@
               h2.mb-4(data-aos="flip-up") Rediseño de prototipos tras pruebas de usabilidad
               p.mb-4(data-aos="fade-right") En el PDF Rediseño de prototipos tras pruebas de usabilidad, se presenta una metodología detallada para analizar hallazgos, categorizar problemas, proponer soluciones fundamentadas y validar su efectividad mediante nuevas pruebas. Este enfoque garantiza que las modificaciones realizadas respondan de forma coherente a las necesidades reales de los usuarios, optimizando la experiencia general sin comprometer la integridad del sistema.
 
-              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
+              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_7.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p <strong>Anexo. </strong> Anexo_6.pdf
+                  p <strong>Anexo. </strong> Rediseño de prototipos tras pruebas de usabilidad
 
       // Bloque 17/30: titulo-segundo
       #t_4_4.titulo-segundo(data-aos="flip-up")
@@ -297,11 +297,11 @@
               h2.mb-4(data-aos="flip-up") Documentación de los cambios y mejoras en el diseño
               p.mb-4(data-aos="fade-right") En el PDF Documentación de los cambios y mejoras en el diseño, se describe un enfoque metodológico para registrar de forma clara y accesible las transformaciones del diseño, incluyendo sus motivaciones, alternativas consideradas y resultados obtenidos. Esta práctica fortalece la trazabilidad, promueve el aprendizaje organizacional y facilita la toma de decisiones fundamentadas en futuras iteraciones o proyectos relacionados.
 
-              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_7.pdf')" target="_blank")(data-aos="flip-up")
+              a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_8.pdf')" target="_blank")(data-aos="flip-up")
                 .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
-                  p <strong>Anexo. </strong> Anexo_7.pdf
+                  p <strong>Anexo. </strong> Documentación de los cambios y mejoras en el diseño
 
       // Bloque 25/30: bloque-img
       .bg-color-4.mb-5(data-aos="fade-up")
